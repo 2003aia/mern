@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "aia mern",
+    "mongoUri": "mongodb+srv://aia:89841073725@cluster0.i2dd3.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
